@@ -7,7 +7,7 @@ from semantic_kernel.functions import kernel_function
 
 load_dotenv()
 # API Rest testing 
-url = os.getenv("DATABASE_URL") # URL of the API endpoint 
+url = "https://web-production-f512.up.railway.app/api/" # URL of the API endpoint 
 
 def send_info(info,direccion,url = url) -> None:
     """ this function sends a post request to the given url with the provided info."""  
