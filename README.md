@@ -28,7 +28,7 @@ El agente está diseñado para mejorar la eficiencia en centros de salud, reduci
 - **Lenguaje:** Python
 - **Framework de IA:** semantic kernel  
 - **Frontend:** streamlit   
-- **Generación de PDFs: ** FPDF
+- **Generación de PDFs:** FPDF
 
 ---
 
